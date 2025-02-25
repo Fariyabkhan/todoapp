@@ -1,1 +1,1 @@
-# This is Todo App using html,css and javascript
+# This is Todo App using html,css and javascript.
